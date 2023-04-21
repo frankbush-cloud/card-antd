@@ -1,0 +1,29 @@
+
+
+.btns {
+	display: flex;
+	align-items: center;
+	color: hsl(217, 12%, 61%);
+	justify-content: space-between;
+}
+
+.btn {
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	border-radius: 50%;
+	background-color: hsl(211, 19%, 24%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn:hover {
+	background-color: hsl(25, 97%, 53%);
+    color: white;
+}
+
+.btn.active{
+   color: white; 
+   background-color: hsl(217, 12%, 61%)
+}

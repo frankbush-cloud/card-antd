@@ -1,0 +1,9 @@
+.mainrate {
+	width: 300px;
+	max-width: 90vw;
+	text-align: left;
+	padding: 20px;
+	background-color: hsl(213, 19%, 18%);
+	color: white;
+	border-radius: 10px;
+}

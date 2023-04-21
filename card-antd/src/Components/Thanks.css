@@ -1,0 +1,14 @@
+.thanks{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.selected{
+    background-color: hsl(217, 12%, 61%);
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
