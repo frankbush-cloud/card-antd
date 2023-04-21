@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card-antd.git/static/css/main.4d6cc797.css",
+    "main.js": "/card-antd.git/static/js/main.41c0acaa.js",
+    "static/js/787.e81f1e5a.chunk.js": "/card-antd.git/static/js/787.e81f1e5a.chunk.js",
+    "index.html": "/card-antd.git/index.html",
+    "main.4d6cc797.css.map": "/card-antd.git/static/css/main.4d6cc797.css.map",
+    "main.41c0acaa.js.map": "/card-antd.git/static/js/main.41c0acaa.js.map",
+    "787.e81f1e5a.chunk.js.map": "/card-antd.git/static/js/787.e81f1e5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6cc797.css",
+    "static/js/main.41c0acaa.js"
+  ]
+}
